@@ -4,6 +4,7 @@ The DA-RNN model has already demonstrated state-of-the-art performance on financ
 
 For methodology & results, please refer to the Report.
 
-References 
+References:
+
 [1] Qin, Y., Song, D., Chen, H., Cheng, W., Jiang, G., & Cottrell, G. (2017). A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction. arXiv preprint arXiv:1704.02971. https://arxiv.org/pdf/1704.02971
 [2] ERA5 Climate Reanalysis Dataset. Copernicus Climate Data Store. https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview
